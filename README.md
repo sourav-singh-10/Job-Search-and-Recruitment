@@ -13,9 +13,7 @@
 <h2 id="ui-design">UI Design</h2>
 <p>Below is a preview of the homepage design created in Figma:</p>
 
-<p><img src="link-to-homepage-screenshot.png" alt="Homepage Design"></p>
-
-<p>Explore the complete <a href="figma-link.com">Figma design here</a> for a full overview of the user interface and flow.</p>
+<p><img src="./frontend/public/JobZee_Homepage.png" alt="Homepage Design"></p>
 
 <h2 id="tech-stack">Tech Stack</h2>
 <ul>
